@@ -1,1 +1,1 @@
-# MujocoTutorial
+# Mujoco Tutorial
